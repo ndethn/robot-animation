@@ -27,7 +27,6 @@ h1 {
 
 .eyes {
 	display: flex;
-	justify-content: space-between;
 }
 
 .head:hover {
@@ -67,6 +66,7 @@ h1 {
 	/* This is another useful property. Hmm what do you think it does?*/
 	margin: 0 auto;
 	padding: 20px;
+	display: flex;
 } 
 
 .left_leg, .right_leg { 
